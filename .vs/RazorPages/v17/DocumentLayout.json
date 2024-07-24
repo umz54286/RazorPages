@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\migrations\\20240724110626_initbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\migrations\\20240724110626_initbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\migrations\\razorpagescontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\migrations\\razorpagescontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "RazorPages\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Properties\\launchSettings.json",
-              "RelativeToolTip": "RazorPages\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-24T08:19:07.752Z",
+              "Title": "20240724110626_InitBook.cs",
+              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Migrations\\20240724110626_InitBook.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Migrations\\20240724110626_InitBook.cs",
+              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Migrations\\20240724110626_InitBook.cs",
+              "RelativeToolTip": "RazorPages\\Migrations\\20240724110626_InitBook.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:07:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RazorPagesContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Migrations\\RazorPagesContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Migrations\\RazorPagesContextModelSnapshot.cs",
+              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Migrations\\RazorPagesContextModelSnapshot.cs",
+              "RelativeToolTip": "RazorPages\\Migrations\\RazorPagesContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:07:26.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Program.cs",
+              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Program.cs",
+              "RelativeToolTip": "RazorPages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:43:14.19Z",
               "EditorCaption": ""
             }
           ]
