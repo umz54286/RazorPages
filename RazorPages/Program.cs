@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using RazorPages.Data;
+using RazorPages.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -9,6 +10,14 @@ builder.Services.AddDbContext<RazorPagesContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("RazorPagesContext") ?? throw new InvalidOperationException("Connection string 'RazorPagesContext' not found.")));
 
 var app = builder.Build();
+
+// SeedData
+//using (var scope = app.Services.CreateScope())
+//{
+//    var services = scope.ServiceProvider;
+
+//    SeedData.Initialize(services);
+//}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
