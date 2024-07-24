@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RazorPages\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RazorPages\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T08:19:07.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
