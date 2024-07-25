@@ -16,6 +16,8 @@ namespace RazorPages.Models
         [DataType(DataType.Date)]
         [Display(Name = "Publication Date")]
         public DateTime PublicationDate { get; set; }
-        
+
+        public string Rating { get; set; } = string.Empty;
+
     }
 }

@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\pages\\books\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\pages\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Pages\\Books\\Index.cshtml",
-              "RelativeDocumentMoniker": "RazorPages\\Pages\\Books\\Index.cshtml",
-              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Pages\\Books\\Index.cshtml",
-              "RelativeToolTip": "RazorPages\\Pages\\Books\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-25T06:47:26.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Pages\\Books\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorPages\\Pages\\Books\\Index.cshtml.cs",
-              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Pages\\Books\\Index.cshtml.cs",
-              "RelativeToolTip": "RazorPages\\Pages\\Books\\Index.cshtml.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T06:54:00.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "RazorPages\\Models\\Book.cs",
-              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Models\\Book.cs",
-              "RelativeToolTip": "RazorPages\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T06:29:51.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Program.cs",
               "RelativeDocumentMoniker": "RazorPages\\Program.cs",
               "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Program.cs",
               "RelativeToolTip": "RazorPages\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T12:59:54.27Z",
+              "WhenOpened": "2024-07-25T07:52:34.707Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Models\\SeedData.cs",
+              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Models\\SeedData.cs",
+              "RelativeToolTip": "RazorPages\\Models\\SeedData.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:45:15.583Z"
             }
           ]
         }

@@ -29,7 +29,8 @@ namespace RazorPages.Models
                         ProductName = "BOOK1",
                         Type = "TypeA",
                         Price = 0,
-                        PublicationDate = DateTime.Parse("1911-1-1")
+                        PublicationDate = DateTime.Parse("1911-1-1"),
+                        Rating = "C"
                     },
 
                     new Book
@@ -38,7 +39,8 @@ namespace RazorPages.Models
                         ProductName = "BOOK2",
                         Type = "TypeB",
                         Price = 0,
-                        PublicationDate = DateTime.Parse("1911-1-1")
+                        PublicationDate = DateTime.Parse("1911-1-1"),
+                        Rating = "C"
                     },
 
                     new Book
@@ -47,7 +49,8 @@ namespace RazorPages.Models
                         ProductName = "BOOK3",
                         Type = "TypeC",
                         Price = 0,
-                        PublicationDate = DateTime.Parse("1911-1-1")
+                        PublicationDate = DateTime.Parse("1911-1-1"),
+                        Rating = "C"
                     },
 
                     new Book
@@ -56,7 +59,8 @@ namespace RazorPages.Models
                         ProductName = "BOOK4",
                         Type = "TypeD",
                         Price = 0,
-                        PublicationDate = DateTime.Parse("1911-1-1")
+                        PublicationDate = DateTime.Parse("1911-1-1"),
+                        Rating = "C"
                     }
                 );
                 context.SaveChanges();
