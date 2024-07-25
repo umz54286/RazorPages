@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|d:\\desktop\\0724\\razorpages\\razorpages\\razorpages\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A959C70-0A78-4C67-AB37-7D7441E4053A}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Program.cs",
-              "RelativeDocumentMoniker": "RazorPages\\Program.cs",
-              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Program.cs",
-              "RelativeToolTip": "RazorPages\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Models\\Book.cs",
+              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Models\\Book.cs",
+              "RelativeToolTip": "RazorPages\\Models\\Book.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T07:52:34.707Z",
+              "WhenOpened": "2024-07-25T08:01:46.22Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Models\\SeedData.cs",
-              "RelativeDocumentMoniker": "RazorPages\\Models\\SeedData.cs",
-              "ToolTip": "D:\\Desktop\\0724\\RazorPages\\RazorPages\\RazorPages\\Models\\SeedData.cs",
-              "RelativeToolTip": "RazorPages\\Models\\SeedData.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwCoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T07:45:15.583Z"
             }
           ]
         }
